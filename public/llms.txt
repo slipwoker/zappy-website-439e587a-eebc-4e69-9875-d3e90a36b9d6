@@ -1,0 +1,71 @@
+# ונהר פרת — Generative Engine Optimization Map
+
+> Vanahara Prat is a prestigious Shabbat Torah journal that combines luxury aesthetics with deep religious content. The publication features Torah articles, moral insights, weekly Torah portion commentary, short Torah gems, faith-inspiring stories, and a special section for blessings and healing prayers. The brand identity evokes the feeling of an ancient sacred text brought to life through modern design — rich gold tones, deep navy, crisp white, and antique parchment textures create an atmosphere of reverence, wisdom, and spiritual elevation befitting a high-end Torah magazine.
+
+---
+
+## Pages
+
+### דף הבית
+https://-439e587a.zappy5.app
+היכנסו לעולם של קדושה ויוקרה עם גיליון תורני שבועי מעוצב. מאמרי תורה לשבת, סיפורי חיזוק מרגשים ותובנות מוסריות שמעוררות את הנשמה. הורידו עכשיו והתחברו לאור.
+
+### תודה רבה - פנייתך התקבלה
+https://-439e587a.zappy5.app/thank-you
+תודה רבה על פנייתך. הודעתך התקבלה במערכת וצוות סיפורי חיזוק ופניני תורה יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-439e587a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-439e587a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-439e587a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-439e587a.zappy5.app
+- Endpoint: https://-439e587a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ונהר פרת
+Vanahara Prat is a prestigious Shabbat Torah journal that combines luxury aesthetics with deep religious content. The publication features Torah articles, moral insights, weekly Torah portion commentary, short Torah gems, faith-inspiring stories, and a special section for blessings and healing prayers. The brand identity evokes the feeling of an ancient sacred text brought to life through modern design — rich gold tones, deep navy, crisp white, and antique parchment textures create an atmosphere of reverence, wisdom, and spiritual elevation befitting a high-end Torah magazine.
+
+## Target Audience
+- קהל דתי ותורני המחפש תוכן רוחני ומעמיק לשבת
+- משפחות דתיות
+- תלמידי ישיבה
+- חוקרי תורה
+
+## Industry
+Religious Publishing / Torah Magazine
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-439e587a.zappy5.app/sitemap.xml
+- Robots: https://-439e587a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-439e587a.zappy5.app/llms-full.txt
